@@ -109,6 +109,8 @@ The scraper targets properties with:
 2. **all_properties_output.csv**: Raw property data with detailed information
 3. **cleaned_dataset.csv**: Processed and cleaned dataset ready for analysis
 
+[See result here](https://rowzero.io/workbook/67BF8E5F6B165532DF351546/0)
+
 ## Performance Features
 
 - **Concurrent Processing**: Uses ThreadPoolExecutor with 10 workers for efficient scraping
