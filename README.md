@@ -111,7 +111,7 @@ The scraper targets properties with:
 
 [See result here](https://rowzero.io/workbook/67BF8E5F6B165532DF351546/0)
 
-![Describe graphic](Data/describe.png)
+![Describe graphic](Data/Describe.png)
 
 ## Performance Features
 
