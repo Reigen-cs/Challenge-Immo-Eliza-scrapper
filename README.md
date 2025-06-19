@@ -111,6 +111,8 @@ The scraper targets properties with:
 
 [See result here](https://rowzero.io/workbook/67BF8E5F6B165532DF351546/0)
 
+![Describe graphic](Data/describe.png)
+
 ## Performance Features
 
 - **Concurrent Processing**: Uses ThreadPoolExecutor with 10 workers for efficient scraping
